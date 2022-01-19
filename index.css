@@ -10,13 +10,13 @@ body {
     }
     #header {
     text-align:left;
-    background-color:#214555;
+    background-color:#2ca8cd;
     }
     #head-inner {
     margin:0px auto 0px auto;
     padding:10px 0px 0px 0px;
-    width:694px;
-    background-color:#214555;
+    width:auto;
+    background-color:#2ca8cd;
     padding:25px;
     }
     .description {
@@ -28,7 +28,7 @@ body {
     #contents {
     margin:0px auto 0px auto;
     padding:30px 0px 0px 0px;
-    width:694px;
+    width:auto;
     line-height:150%;
     color:#333333;
     font-size:14px;
@@ -89,7 +89,7 @@ body {
     #middle {
     margin:0px auto 0px auto;
     padding:10px 0px 20px 0px;
-    width:694px;
+    width:auto;
     }
     .side-title {
     width:540px;
@@ -125,10 +125,11 @@ body {
     }
     
     .fit-picture {
-    width: 30%;
+    width: 40%;
     }
     
     .image {
     text-align: center;
     margin-top: 50px;
+    margin-bottom: 20px;
     }
