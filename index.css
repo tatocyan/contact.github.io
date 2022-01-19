@@ -23,6 +23,7 @@ body {
     padding-left:10px;
     line-height:140%;
     color:#ffffff;
+    text-align: center;
     }
     #contents {
     margin:0px auto 0px auto;
@@ -59,7 +60,7 @@ body {
     h1 {
     font-size:24px;
     font-weight:bold;
-    text-align:left;
+    text-align:center;
     padding:30px 0px 0px 10px;
     margin:0px;
     color:#ffffff;
@@ -79,6 +80,7 @@ body {
     margin:0px 0px 0px 0px;
     padding:4px 0px 4px 7px;
     border-bottom:2px solid #999999;
+    text-align: center;
     }
     .green {
     color:#008800;
@@ -123,7 +125,10 @@ body {
     }
     
     .fit-picture {
-        width: 250px;
+    width: 30%;
     }
     
-    
+    .image {
+    text-align: center;
+    margin-top: 50px;
+    }
